@@ -1,0 +1,211 @@
+[2026-03-02 15:04:53] Checking stocks...
+  BUMI.JK: first run, no baseline yet (price: 250.0)
+  DEWA.JK: first run, no baseline yet (price: 500.0)
+[2026-03-02 15:12:13] Checking stocks...
+  BUMI.JK: first run, no baseline yet (price: 250.0)
+  DEWA.JK: first run, no baseline yet (price: 505.0)
+  BSDE.JK: first run, no baseline yet (price: 800.0)
+  PWON.JK: first run, no baseline yet (price: 358.0)
+  CTRA.JK: first run, no baseline yet (price: 750.0)
+  SMRA.JK: first run, no baseline yet (price: 370.0)
+  LPKR.JK: first run, no baseline yet (price: 98.0)
+  BMRI.JK: first run, no baseline yet (price: 5100.0)
+  BBNI.JK: first run, no baseline yet (price: 4330.0)
+  BBRI.JK: first run, no baseline yet (price: 3830.0)
+  BBTN.JK: first run, no baseline yet (price: 1325.0)
+[2026-03-02 15:42:16] Checking stocks...
+  BUMI.JK: first run, no baseline yet (price: 250.0)
+  DEWA.JK: first run, no baseline yet (price: 505.0)
+  BSDE.JK: first run, no baseline yet (price: 795.0)
+  PWON.JK: first run, no baseline yet (price: 360.0)
+  CTRA.JK: first run, no baseline yet (price: 755.0)
+  SMRA.JK: first run, no baseline yet (price: 368.0)
+  LPKR.JK: first run, no baseline yet (price: 96.0)
+  BMRI.JK: first run, no baseline yet (price: 5100.0)
+  BBNI.JK: first run, no baseline yet (price: 4320.0)
+  BBRI.JK: first run, no baseline yet (price: 3820.0)
+  BBTN.JK: first run, no baseline yet (price: 1330.0)
+[2026-03-02 16:12:20] Checking stocks...
+  BUMI.JK: current=248.0, 1h_ago=250.0, change=-0.8%
+  DEWA.JK: current=500.0, 1h_ago=500.0, change=0.0%
+  BSDE.JK: current=790.0, 1h_ago=800.0, change=-1.25%
+  PWON.JK: current=356.0, 1h_ago=358.0, change=-0.56%
+  CTRA.JK: current=745.0, 1h_ago=750.0, change=-0.67%
+  SMRA.JK: current=368.0, 1h_ago=370.0, change=-0.54%
+  LPKR.JK: current=93.0, 1h_ago=98.0, change=-5.1%
+Mon Mar  2 04:12:30 PM WIB 2026: ALERT LPKR.JK -5.1%
+  BMRI.JK: current=5075.0, 1h_ago=5100.0, change=-0.49%
+  BBNI.JK: current=4300.0, 1h_ago=4330.0, change=-0.69%
+  BBRI.JK: current=3820.0, 1h_ago=3830.0, change=-0.26%
+  BBTN.JK: current=1315.0, 1h_ago=1325.0, change=-0.75%
+[2026-03-02 16:42:32] Checking stocks...
+  BUMI.JK: current=248.0, 1h_ago=250.0, change=-0.8%
+  DEWA.JK: current=500.0, 1h_ago=500.0, change=0.0%
+  BSDE.JK: current=790.0, 1h_ago=800.0, change=-1.25%
+  PWON.JK: current=356.0, 1h_ago=358.0, change=-0.56%
+  CTRA.JK: current=745.0, 1h_ago=750.0, change=-0.67%
+  SMRA.JK: current=368.0, 1h_ago=370.0, change=-0.54%
+  LPKR.JK: current=93.0, 1h_ago=98.0, change=-5.1%
+Mon Mar  2 04:42:46 PM WIB 2026: ALERT LPKR.JK -5.1%
+  BMRI.JK: current=5075.0, 1h_ago=5100.0, change=-0.49%
+  BBNI.JK: current=4300.0, 1h_ago=4330.0, change=-0.69%
+  BBRI.JK: current=3820.0, 1h_ago=3830.0, change=-0.26%
+  BBTN.JK: current=1315.0, 1h_ago=1325.0, change=-0.75%
+[2026-03-02 17:12:47] Checking stocks...
+  BUMI.JK: current=248.0, 1h_ago=250.0, change=-0.8%
+  DEWA.JK: current=500.0, 1h_ago=500.0, change=0.0%
+  BSDE.JK: current=790.0, 1h_ago=800.0, change=-1.25%
+  PWON.JK: current=356.0, 1h_ago=358.0, change=-0.56%
+  CTRA.JK: current=745.0, 1h_ago=750.0, change=-0.67%
+  SMRA.JK: current=368.0, 1h_ago=370.0, change=-0.54%
+  LPKR.JK: current=93.0, 1h_ago=98.0, change=-5.1%
+Mon Mar  2 05:12:56 PM WIB 2026: ALERT LPKR.JK -5.1%
+  BMRI.JK: current=5075.0, 1h_ago=5100.0, change=-0.49%
+  BBNI.JK: current=4300.0, 1h_ago=4330.0, change=-0.69%
+  BBRI.JK: current=3820.0, 1h_ago=3830.0, change=-0.26%
+  BBTN.JK: current=1315.0, 1h_ago=1325.0, change=-0.75%
+[2026-03-02 17:42:57] Checking stocks...
+  BUMI.JK: current=248.0, 1h_ago=250.0, change=-0.8%
+  DEWA.JK: current=500.0, 1h_ago=505.0, change=-0.99%
+  BSDE.JK: current=790.0, 1h_ago=795.0, change=-0.63%
+  PWON.JK: current=356.0, 1h_ago=360.0, change=-1.11%
+  CTRA.JK: current=745.0, 1h_ago=755.0, change=-1.32%
+  SMRA.JK: current=368.0, 1h_ago=368.0, change=0.0%
+  LPKR.JK: current=93.0, 1h_ago=96.0, change=-3.12%
+Mon Mar  2 05:43:06 PM WIB 2026: ALERT LPKR.JK -3.12%
+  BMRI.JK: current=5075.0, 1h_ago=5100.0, change=-0.49%
+  BBNI.JK: current=4300.0, 1h_ago=4320.0, change=-0.46%
+  BBRI.JK: current=3820.0, 1h_ago=3820.0, change=0.0%
+  BBTN.JK: current=1315.0, 1h_ago=1330.0, change=-1.13%
+[2026-03-02 18:13:07] Checking stocks...
+  BUMI.JK: current=248.0, 1h_ago=248.0, change=0.0%
+  DEWA.JK: current=500.0, 1h_ago=500.0, change=0.0%
+  BSDE.JK: current=790.0, 1h_ago=790.0, change=0.0%
+  PWON.JK: current=356.0, 1h_ago=356.0, change=0.0%
+  CTRA.JK: current=745.0, 1h_ago=745.0, change=0.0%
+  SMRA.JK: current=368.0, 1h_ago=368.0, change=0.0%
+  LPKR.JK: current=93.0, 1h_ago=93.0, change=0.0%
+  BMRI.JK: current=5075.0, 1h_ago=5075.0, change=0.0%
+  BBNI.JK: current=4300.0, 1h_ago=4300.0, change=0.0%
+  BBRI.JK: current=3820.0, 1h_ago=3820.0, change=0.0%
+  BBTN.JK: current=1315.0, 1h_ago=1315.0, change=0.0%
+[2026-03-02 18:43:12] Checking stocks...
+  BUMI.JK: current=248.0, 1h_ago=248.0, change=0.0%
+  DEWA.JK: current=500.0, 1h_ago=500.0, change=0.0%
+  BSDE.JK: current=790.0, 1h_ago=790.0, change=0.0%
+  PWON.JK: current=356.0, 1h_ago=356.0, change=0.0%
+  CTRA.JK: current=745.0, 1h_ago=745.0, change=0.0%
+  SMRA.JK: current=368.0, 1h_ago=368.0, change=0.0%
+  LPKR.JK: current=93.0, 1h_ago=93.0, change=0.0%
+  BMRI.JK: current=5075.0, 1h_ago=5075.0, change=0.0%
+  BBNI.JK: current=4300.0, 1h_ago=4300.0, change=0.0%
+  BBRI.JK: current=3820.0, 1h_ago=3820.0, change=0.0%
+  BBTN.JK: current=1315.0, 1h_ago=1315.0, change=0.0%
+[2026-03-02 19:13:25] Checking stocks...
+  BUMI.JK: current=248.0, 1h_ago=248.0, change=0.0%
+  DEWA.JK: current=500.0, 1h_ago=500.0, change=0.0%
+  BSDE.JK: current=790.0, 1h_ago=790.0, change=0.0%
+  PWON.JK: current=356.0, 1h_ago=356.0, change=0.0%
+  CTRA.JK: current=745.0, 1h_ago=745.0, change=0.0%
+  SMRA.JK: current=368.0, 1h_ago=368.0, change=0.0%
+  LPKR.JK: current=93.0, 1h_ago=93.0, change=0.0%
+  BMRI.JK: current=5075.0, 1h_ago=5075.0, change=0.0%
+  BBNI.JK: current=4300.0, 1h_ago=4300.0, change=0.0%
+  BBRI.JK: current=3820.0, 1h_ago=3820.0, change=0.0%
+  BBTN.JK: current=1315.0, 1h_ago=1315.0, change=0.0%
+[2026-03-02 19:43:30] Checking stocks...
+  BUMI.JK: current=248.0, 1h_ago=248.0, change=0.0%
+  DEWA.JK: current=500.0, 1h_ago=500.0, change=0.0%
+  BSDE.JK: current=790.0, 1h_ago=790.0, change=0.0%
+  PWON.JK: current=356.0, 1h_ago=356.0, change=0.0%
+  CTRA.JK: current=745.0, 1h_ago=745.0, change=0.0%
+  SMRA.JK: current=368.0, 1h_ago=368.0, change=0.0%
+  LPKR.JK: current=93.0, 1h_ago=93.0, change=0.0%
+  BMRI.JK: current=5075.0, 1h_ago=5075.0, change=0.0%
+  BBNI.JK: current=4300.0, 1h_ago=4300.0, change=0.0%
+  BBRI.JK: current=3820.0, 1h_ago=3820.0, change=0.0%
+  BBTN.JK: current=1315.0, 1h_ago=1315.0, change=0.0%
+[2026-03-02 20:13:39] Checking stocks...
+  BUMI.JK: current=248.0, 1h_ago=248.0, change=0.0%
+  DEWA.JK: current=500.0, 1h_ago=500.0, change=0.0%
+  BSDE.JK: current=790.0, 1h_ago=790.0, change=0.0%
+  PWON.JK: current=356.0, 1h_ago=356.0, change=0.0%
+  CTRA.JK: current=745.0, 1h_ago=745.0, change=0.0%
+  SMRA.JK: current=368.0, 1h_ago=368.0, change=0.0%
+  LPKR.JK: current=93.0, 1h_ago=93.0, change=0.0%
+  BMRI.JK: current=5075.0, 1h_ago=5075.0, change=0.0%
+  BBNI.JK: current=4300.0, 1h_ago=4300.0, change=0.0%
+  BBRI.JK: current=3820.0, 1h_ago=3820.0, change=0.0%
+  BBTN.JK: current=1315.0, 1h_ago=1315.0, change=0.0%
+[2026-03-02 20:43:43] Checking stocks...
+  BUMI.JK: current=248.0, 1h_ago=248.0, change=0.0%
+  DEWA.JK: current=500.0, 1h_ago=500.0, change=0.0%
+  BSDE.JK: current=790.0, 1h_ago=790.0, change=0.0%
+  PWON.JK: current=356.0, 1h_ago=356.0, change=0.0%
+  CTRA.JK: current=745.0, 1h_ago=745.0, change=0.0%
+  SMRA.JK: current=368.0, 1h_ago=368.0, change=0.0%
+  LPKR.JK: current=93.0, 1h_ago=93.0, change=0.0%
+  BMRI.JK: current=5075.0, 1h_ago=5075.0, change=0.0%
+  BBNI.JK: current=4300.0, 1h_ago=4300.0, change=0.0%
+  BBRI.JK: current=3820.0, 1h_ago=3820.0, change=0.0%
+  BBTN.JK: current=1315.0, 1h_ago=1315.0, change=0.0%
+[2026-03-02 21:13:57] Checking stocks...
+  BUMI.JK: current=248.0, 1h_ago=248.0, change=0.0%
+  DEWA.JK: current=500.0, 1h_ago=500.0, change=0.0%
+  BSDE.JK: current=790.0, 1h_ago=790.0, change=0.0%
+  PWON.JK: current=356.0, 1h_ago=356.0, change=0.0%
+  CTRA.JK: current=745.0, 1h_ago=745.0, change=0.0%
+  SMRA.JK: current=368.0, 1h_ago=368.0, change=0.0%
+  LPKR.JK: current=93.0, 1h_ago=93.0, change=0.0%
+  BMRI.JK: current=5075.0, 1h_ago=5075.0, change=0.0%
+  BBNI.JK: current=4300.0, 1h_ago=4300.0, change=0.0%
+  BBRI.JK: current=3820.0, 1h_ago=3820.0, change=0.0%
+  BBTN.JK: current=1315.0, 1h_ago=1315.0, change=0.0%
+[2026-03-02 21:44:01] Checking stocks...
+  BUMI.JK: current=248.0, 1h_ago=248.0, change=0.0%
+  DEWA.JK: current=500.0, 1h_ago=500.0, change=0.0%
+  BSDE.JK: current=790.0, 1h_ago=790.0, change=0.0%
+  PWON.JK: current=356.0, 1h_ago=356.0, change=0.0%
+  CTRA.JK: current=745.0, 1h_ago=745.0, change=0.0%
+  SMRA.JK: current=368.0, 1h_ago=368.0, change=0.0%
+  LPKR.JK: current=93.0, 1h_ago=93.0, change=0.0%
+  BMRI.JK: current=5075.0, 1h_ago=5075.0, change=0.0%
+  BBNI.JK: current=4300.0, 1h_ago=4300.0, change=0.0%
+  BBRI.JK: current=3820.0, 1h_ago=3820.0, change=0.0%
+  BBTN.JK: current=1315.0, 1h_ago=1315.0, change=0.0%
+[2026-03-02 22:14:05] Checking stocks...
+  BUMI.JK: current=248.0, 1h_ago=248.0, change=0.0%
+  DEWA.JK: current=500.0, 1h_ago=500.0, change=0.0%
+  BSDE.JK: current=790.0, 1h_ago=790.0, change=0.0%
+  PWON.JK: current=356.0, 1h_ago=356.0, change=0.0%
+  CTRA.JK: current=745.0, 1h_ago=745.0, change=0.0%
+  SMRA.JK: current=368.0, 1h_ago=368.0, change=0.0%
+  LPKR.JK: current=93.0, 1h_ago=93.0, change=0.0%
+  BMRI.JK: current=5075.0, 1h_ago=5075.0, change=0.0%
+  BBNI.JK: current=4300.0, 1h_ago=4300.0, change=0.0%
+  BBRI.JK: current=3820.0, 1h_ago=3820.0, change=0.0%
+  BBTN.JK: current=1315.0, 1h_ago=1315.0, change=0.0%
+[2026-03-02 22:44:10] Checking stocks...
+  BUMI.JK: current=248.0, 1h_ago=248.0, change=0.0%
+  DEWA.JK: current=500.0, 1h_ago=500.0, change=0.0%
+  BSDE.JK: current=790.0, 1h_ago=790.0, change=0.0%
+  PWON.JK: current=356.0, 1h_ago=356.0, change=0.0%
+  CTRA.JK: current=745.0, 1h_ago=745.0, change=0.0%
+  SMRA.JK: current=368.0, 1h_ago=368.0, change=0.0%
+  LPKR.JK: current=93.0, 1h_ago=93.0, change=0.0%
+  BMRI.JK: current=5075.0, 1h_ago=5075.0, change=0.0%
+  BBNI.JK: current=4300.0, 1h_ago=4300.0, change=0.0%
+  BBRI.JK: current=3820.0, 1h_ago=3820.0, change=0.0%
+  BBTN.JK: current=1315.0, 1h_ago=1315.0, change=0.0%
+[2026-03-02 23:14:15] Checking stocks...
+  BUMI.JK: current=248.0, 1h_ago=248.0, change=0.0%
+  DEWA.JK: current=500.0, 1h_ago=500.0, change=0.0%
+  BSDE.JK: current=790.0, 1h_ago=790.0, change=0.0%
+  PWON.JK: current=356.0, 1h_ago=356.0, change=0.0%
+  CTRA.JK: current=745.0, 1h_ago=745.0, change=0.0%
+  SMRA.JK: current=368.0, 1h_ago=368.0, change=0.0%
+  LPKR.JK: current=93.0, 1h_ago=93.0, change=0.0%
+  BMRI.JK: current=5075.0, 1h_ago=5075.0, change=0.0%
+  BBNI.JK: current=4300.0, 1h_ago=4300.0, change=0.0%
+  BBRI.JK: current=3820.0, 1h_ago=3820.0, change=0.0%
+  BBTN.JK: current=1315.0, 1h_ago=1315.0, change=0.0%
