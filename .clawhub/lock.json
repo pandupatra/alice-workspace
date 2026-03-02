@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "self-improving-agent": {
+      "version": "1.0.11",
+      "installedAt": 1772431547614
+    },
+    "gog": {
+      "version": "1.0.0",
+      "installedAt": 1772431591246
+    },
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1772433516989
+    }
+  }
+}
